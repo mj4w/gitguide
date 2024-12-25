@@ -41,3 +41,20 @@ If you are on Mac/Linux you should set as to *Input*
 ```git
 git config --global core.autocrlf input
 ```
+<<<<<<< HEAD
+=======
+
+### Config help, press space to go to the next page and q to exit
+```git
+git config --help
+```
+Short summary
+```git
+git config -h 
+```
+
+
+
+### PDF
+[CheatSheet](https://cdn.codewithmosh.com/image/upload/v1702943977/cheat-sheets/git.pdf)
+>>>>>>> f7b9adc (Auto stash before rebase of "main" onto "origin/main")
