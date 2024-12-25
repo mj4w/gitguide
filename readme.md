@@ -14,7 +14,7 @@
 
 <hr>
 
-> NOTE
+> [!Note]
 > If you are first time to install git, you need to introduce > yourself in the terminal.
 
 ```git
@@ -30,7 +30,7 @@ git config --global core.editor "code --wait"
 git config --global -e
 ```
 
-> Note
+> [!Note]
 > To prevent issue from carriage return 
 
 If you are on Windows you should set as to *True*
